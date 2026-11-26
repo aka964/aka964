@@ -7,8 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdullah.it.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/aka_964"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
@@ -30,14 +28,14 @@
 ### 🚀 Featured projects
 | Project | Description | Stack |
 |---|---|---|
-| [**NASAQ-STOCK**](https://github.com/aka964/REPO) | Offline-first POS for retail shops | Flutter |
-| [**NASAQ-BOT**](https://github.com/aka964/REPO) | AI auto-reply SaaS for Instagram/Messenger sellers | .NET · LLM |
-| [**FlyGuard**](https://github.com/aka964/REPO) | Fly-connectome-inspired collision avoidance for drones | Python |
+| **NASAQ-STOCK** | Offline-first POS for retail shops | Flutter |
+| **NASAQ-BOT** | AI auto-reply SaaS for Instagram/Messenger sellers | .NET · LLM |
+| **FlyGuard** | Fly-connectome-inspired collision avoidance for drones | Python |
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aka964&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka964&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-six-taupe-58.vercel.app/api?username=aka964&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars&hide_rank=true&custom_title=Abdallah%20G.%20Jwad%27s%20GitHub%20Stats" />
+  <img height="165" src="https://github-readme-stats-six-taupe-58.vercel.app/api/top-langs/?username=aka964&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css&langs_count=6" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aka964&theme=tokyonight&hide_border=true" />
