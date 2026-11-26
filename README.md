@@ -30,23 +30,23 @@
 ### 🚀 Featured projects
 | Project | Description | Stack |
 |---|---|---|
-| [**NASAQ-STOCK**](https://github.com/YOUR_USERNAME/REPO) | Offline-first POS for retail shops | Flutter |
-| [**NASAQ-BOT**](https://github.com/YOUR_USERNAME/REPO) | AI auto-reply SaaS for Instagram/Messenger sellers | .NET · LLM |
-| [**FlyGuard**](https://github.com/YOUR_USERNAME/REPO) | Fly-connectome-inspired collision avoidance for drones | Python |
+| [**NASAQ-STOCK**](https://github.com/aka964/REPO) | Offline-first POS for retail shops | Flutter |
+| [**NASAQ-BOT**](https://github.com/aka964/REPO) | AI auto-reply SaaS for Instagram/Messenger sellers | .NET · LLM |
+| [**FlyGuard**](https://github.com/aka964/REPO) | Fly-connectome-inspired collision avoidance for drones | Python |
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aka964&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka964&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aka964&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/aka964/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aka964/YOUR_USERNAME/output/github-snake.svg" alt="snake" />
   </picture>
 </p>
