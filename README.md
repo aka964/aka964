@@ -46,7 +46,7 @@
 ### 🐍 Contribution snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/aka964/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aka964/YOUR_USERNAME/output/github-snake.svg" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aka964/aka964/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aka964/aka964/output/github-snake.svg" alt="snake" />
   </picture>
 </p>
